@@ -1,4 +1,4 @@
-# 15min-emergency
+# 15 mins - City Planner
 
 The aim of this project is to test the readiness of the city amenities where each residence can reach any necessary amenities like medical services in an emergency within the 15 minutes of timespan. This project can be further expanded to other amenities which can help in better city planning, resulting several benefits such as improved life quality, near reach of amenities causing less driving, controlling traffic and air pollution.
 The primary approach in implementing such as city-wide project, depends on the neighborhood and the essential service city wants to enable the ’15min Emergency’. Here in this experiment, we will be focusing on the Downtown neighborhood of the Washington DC for the medical services available in the reach from downtown.
