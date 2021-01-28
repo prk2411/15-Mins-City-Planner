@@ -6,3 +6,11 @@ With the help of this experiment, we will try to answer some of the questions li
 
 - What is the overall current state of readiness of the city and the districts within it in respect to this "15 minutes" goal?
 - Can we identify neighborhoods that share similar characteristics and group them together so that specific dedicated action plans can be defined to enable the "15 minutes" vision in these neighborhoods?
+
+After Using the 15 minutes rule, we have clustered all the residence points on the map
+
+![Cluster Map](./cluster_map.PNG)
+
+And here we can see the distribution of how many elements are belonging to each cluster.
+
+![Cluster Bar](./15min.PNG)
